@@ -43,6 +43,8 @@
 |  Nick Cianci    |   Nick-Cianci  |    <https://nick-cianci.github.io/Stat-184/>  |
 | John Ensley     | ensley         | <http://john-ensley.com>                          |
 | Anthony Roman   | aromedtbf      | <https://aromedtbf.github.io/STAT-184/>           |
+| Cassandra Pomarico |cassie-pomarico| <https://cassie-pomarico.github.io/Stat184 > |
+
 
 
 <br>
